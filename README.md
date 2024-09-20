@@ -1,6 +1,6 @@
 **@SecurityAnalystW**
 
-**Hacker ético em formação**. Minhas principais áreas de interesse são **testes de penetração** e **desenvolvimento seguro**. 
+**Hacker ético em formação**. Minhas principais áreas de interesse são **testes de penetração web** e **desenvolvimento seguro**. 
 
 **Habilidades:** Burp Suite, Kali Linux, Python, Redes, I.A, LGPD...
 
